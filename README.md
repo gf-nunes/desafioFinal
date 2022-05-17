@@ -12,15 +12,15 @@ Linha do tempo dos amigos: uma página que reúna os posts dos amigos, agrupados
 
 ###Título e Descrição
 
-####SevenDev – A rede social das mulheres que codam!
+SevenDev – A rede social das mulheres que codam!
 
 Uma rede social voltada para mulheres desenvolvedoras. Um espaço de troca, acolhimento, compartilhamento e principalmente aprendizado entre as mulheres da tecnologia.
 
-####Status do projeto
+Status do projeto
 
 Em construção.
 
-####Funcionalidades 
+Funcionalidades 
 
 [X] Cadastro de usuário; 
 [X] Página de Perfil; 
@@ -29,7 +29,7 @@ Em construção.
 [X] Adicionar amigos; 
 [X] Comentar e curtir postagens dos amigos.
 
-####🛠Tecnologias
+Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
